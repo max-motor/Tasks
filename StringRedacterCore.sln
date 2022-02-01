@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringRedacterCore", "StringRedacterCore\StringRedacterCore.csproj", "{7D4DF6EB-6AC5-48E5-9DB5-20F8112824BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringRedacterCore.Tests", "StringRedacterCore.Tests\StringRedacterCore.Tests.csproj", "{780CFF60-C098-496D-939B-0FA9495F3614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D4DF6EB-6AC5-48E5-9DB5-20F8112824BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4DF6EB-6AC5-48E5-9DB5-20F8112824BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4DF6EB-6AC5-48E5-9DB5-20F8112824BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4DF6EB-6AC5-48E5-9DB5-20F8112824BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{780CFF60-C098-496D-939B-0FA9495F3614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780CFF60-C098-496D-939B-0FA9495F3614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780CFF60-C098-496D-939B-0FA9495F3614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780CFF60-C098-496D-939B-0FA9495F3614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9654211-8504-4C6D-B4CD-2A1E134D80B7}
+	EndGlobalSection
+EndGlobal
